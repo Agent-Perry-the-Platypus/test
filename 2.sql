@@ -1,4 +1,4 @@
-CREATE TABLE Автомобіль (
+CREATE TABLE Автомобіль(
 [Код автомобіля] INT NOT NULL PRIMARY KEY, 
 Марка NVARCHAR(15) NOT NULL, 
 Рік DATE NOT NULL, 
