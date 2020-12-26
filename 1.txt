@@ -6,7 +6,7 @@ CREATE TABLE Автомобіль (
 [Тип двигуна] NVARCHAR(15) NOT NULL, 
 [Тип кузова] NVARCHAR(16) NOT NULL, 
 Колір  NVARCHAR(25), 
-Вага FLOAT);
+Вага FLOAT);1
 
 CREATE TABLE Клієнт(
 [Код клієнта] INT NOT NULL PRIMARY KEY, 
